@@ -2,7 +2,6 @@
   "name": "aio-kyc-backend",
   "version": "1.0.0",
   "main": "server-ai.js",
-  "type": "module",
   "scripts": {
     "start": "node server-ai.js"
   },
